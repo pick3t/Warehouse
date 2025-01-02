@@ -8,6 +8,15 @@ The most useful resources on computer science(mainly) you can find on the Intern
 - [csdiy.wiki](https://csdiy.wiki/en/)
 
   A well documented self-learning guide to computer science.
+- [Oi Wiki](https://oi-wiki.org/)
+
+  Things you need to know for competitive programming. Lang is Chinese.
+- [cp-algorithms](https://cp-algorithms.com/)
+  
+  It seems to be just the EN version of Oi Wiki.
+- [Codeforces](https://codeforces.com/)
+
+  Solve competitive programming problems.
 
 
 ### ✍️Blogs(Less structured and more subjective)
@@ -21,3 +30,6 @@ The most useful resources on computer science(mainly) you can find on the Intern
 - [Stanford CS 143](https://web.stanford.edu/class/cs143/)
 
   Stanford course on compiler.
+- [Algorithms Part II](https://www.coursera.org/learn/algorithms-part2)
+
+  Princeton course on algorithms, published on Coursera.
