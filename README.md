@@ -17,9 +17,15 @@ The most useful resources on computer science(mainly) you can find on the Intern
 - [Codeforces](https://codeforces.com/)
 
   Solve competitive programming problems.
+- [Eli Bendersky's website](https://eli.thegreenplace.net/)
+
+  Studies across multiple fields. As for programming languages, the author mostly focuses on C/C++, Go and Python. He also maintains a [list of projects](https://eli.thegreenplace.net/pages/projects) initiated by himself as showcases.
+- [FluentCpp](https://www.fluentcpp.com/)
+
+  Learn how to write expressive code in C++.
 
 
-### ✍️Blogs(Less structured and more subjective)
+### ✍️Blogs(Less structured and more [[maybe_unused]] subjective)
 - [Understanding the Clang AST](https://jonasdevlieghere.com/post/understanding-the-clang-ast/)
 
 
