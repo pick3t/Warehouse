@@ -1,7 +1,10 @@
 # Warehouse
 The most useful resources on computer science(mainly) you can find on the Internet.
 
+Descriptions are often subjective, correct me if you feel the need to by filing an issue.
+
 ### 📚Archives
+Collections of articles focusing on one or more topics such as programming language, algorithms, etc.
 - [The Architecture of Open Source Applications](https://aosabook.org/en/)
 
   In-depth introductions on famous open source apps in the industry such as CMake, LLVM, etc.
@@ -23,13 +26,21 @@ The most useful resources on computer science(mainly) you can find on the Intern
 - [FluentCpp](https://www.fluentcpp.com/)
 
   Learn how to write expressive code in C++.
+- [Preshing on Programming](https://preshing.com/)
+
+  Focuses on C++. The author made a flappy bird game entirely in C++ without using an existing game engine.
+- [Barry's C++ Blog](https://brevzin.github.io/)
+
+  Where you can find discussions about features(whether implemented or not) introduced in newest C++ standards.
 
 
-### ✍️Blogs(Less structured and more [[maybe_unused]] subjective)
+### ✍️Blogs
+This often focuses on a specific aspect, which itself might belong to an archive but not digged into yet. In other words, articles in **Archives** can be listed here as well.
 - [Understanding the Clang AST](https://jonasdevlieghere.com/post/understanding-the-clang-ast/)
 
 
 ### 🎓Online Courses
+As the name suggests...
 - [Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
 
   MIT open course. Topics include regular and context-free languages, decidable and undecidable problems...
